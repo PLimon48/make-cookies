@@ -1,0 +1,10 @@
+body {
+  background: url(http://i.huffpost.com/gen/1264627/images/o-BEST-COOKIE-RECIPE-facebook.jpg);
+  background-size: auto;
+}
+
+.black {
+  border: none;
+  height: 3px;
+  background: #4d1a00;
+}
